@@ -1,11 +1,16 @@
 _repo: The-Handy-Horse-book-or-Practical-Instructions-in-Driving-Riding-and-the-General-Care-and-Man__62993
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62993-h/images/cover.jpg
 creator:
   author:
     agent_name: Mahon, Maurice Hartland
     gutenberg_agent_id: '52218'
     url: http://www.gutenberg.org/2009/agents/52218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62993#The-Handy-Horse-book-or-Practical-Instructions-in-Driving-Riding-and-the-General-Care-and-Man_
 gutenberg_issued: '2020-08-21'
 gutenberg_type: Text
 identifiers:
